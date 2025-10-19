@@ -1,2 +1,3 @@
-# final-trigger-test-1760853000
-Debug test deployment via API
+# Debug Test Project
+
+Generated for debugging purposes.
